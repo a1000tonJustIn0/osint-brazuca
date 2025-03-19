@@ -353,6 +353,14 @@ Abrirá uma página para preenchimento, preencha da seguinte forma:
 
 - https://sistemas.anatel.gov.br/stel/Consultas/RecuperacaoFrequencias/tela.asp?SISQSmodulo=9896
 
+### Consultar certificados emitidos para um dominio
+Digite somente o dominio, sem subdominios, para trazer todos:
+- https://crt.sh/
+
+### Ferramenta agregadora de OSINT
+Instale no seu linux e pesquise em várias fontes, com saída gráfica:
+- https://github.com/smicallef/spiderfoot
+
 ### Consultar responsável por um indicativo
 Digite o Indicativo da Estação sem pontos e sem traços.
 - https://sistemas.anatel.gov.br/easp/Novo/ConsultaIndicativo/Tela.asp
